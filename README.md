@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Calmon&show_icons=truetheme=radical)](https://github.com/Ryan-Calmon/github-readme-stats&show_icons=truetheme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Calmon&show_icons=true&theme=radical)](https://github.com/Ryan-Calmon/github-readme-stats&show_icons=true&theme=radical)
