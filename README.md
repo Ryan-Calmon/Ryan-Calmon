@@ -1,2 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Calmon&show_icons=true&theme=radical)](https://github.com/Ryan-Calmon/github-readme-stats&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Calmon&layout=compact)](https://github.com/Ryan-Calmon/github-readme-stats&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-Calmon&show_icons=true&theme=radical)](https://github.com/Ryan-Calmon/github-readme-stats&show_icons=true&theme=radical" >
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Calmon&layout=compact)](https://github.com/Ryan-Calmon/github-readme-stats&layout=compact" >
