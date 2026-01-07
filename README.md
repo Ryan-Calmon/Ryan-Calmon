@@ -1,11 +1,6 @@
-## Oi! Meu nome é Ryan
-<p>
-  <img
-    align="left"
-    alt="Github Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Ryan-Calmon&show_icons=true&theme=radical"
-</p>
+## 💻 Ryan Calmon
+Me chamo Ryan Calmon, tenho 20 anos e atualmente estou no sexto período em Bacharelado em Ciência da Computação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET-RJ).
+
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
